@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=560&lines=reza%40rezathepure%3A~%24+whoami;Software+engineer+building+his+products+end+to+end." alt="whoami" />
-</h1>
+<h1 align="center"><code>reza@rezathepure:~$ whoami</code></h1>
+<p align="center"><em>Software engineer building his products end to end.</em></p>
 
 <p align="center">
   <a href="https://rezathepure.com/"><img src="https://img.shields.io/badge/rezathepure.com-000000?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Website" /></a>
