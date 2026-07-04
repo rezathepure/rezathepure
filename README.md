@@ -27,9 +27,6 @@ behind it. Currently pouring most of that into **Morpho**.
 **[ats-bypasser](https://atsbypasser.com/)** &nbsp;·&nbsp; `free tool`
 > Tailors your CV to a specific job description so it clears the ATS filter.
 
-**[rezathepure.com](https://rezathepure.com/)** &nbsp;·&nbsp; `personal site`
-> A static, matrix-themed one-pager on Cloudflare Pages. No framework, no build step.
-
 ---
 
 ## `# also.md`
@@ -47,12 +44,3 @@ Contributor to **[Gin](https://github.com/gin-gonic/gin/commits?author=rezathepu
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezathepure&show_icons=true&hide_border=true&theme=dark&icon_color=22C55E&title_color=22C55E&hide=contribs" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezathepure&layout=compact&hide_border=true&theme=dark&title_color=22C55E&langs_count=6" alt="top languages" height="150" />
-</p>
-
-<p align="center"><sub><code>❯</code> building in public · <a href="https://rezathepure.com/">rezathepure.com</a></sub></p>
