@@ -20,7 +20,7 @@ behind it. Most recently built and sold **Morpho**.
 
 ## `# projects.md`
 
-**[Morpho](https://trymorpho.app/)** &nbsp;·&nbsp; `acquired` &nbsp;·&nbsp; iOS &amp; Android
+**[Morpho](https://morpho-landing.pages.dev/)** &nbsp;·&nbsp; `acquired` &nbsp;·&nbsp; iOS &amp; Android
 > One selfie, dozens of AI personas — anime, warrior, cartoon, cyberpunk. Generated in seconds.
 
 **[ats-bypasser](https://atsbypasser.com/)** &nbsp;·&nbsp; `free tool`
