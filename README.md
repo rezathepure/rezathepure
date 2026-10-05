@@ -14,13 +14,13 @@
 
 Independent software engineer based in **Kuala Lumpur, Malaysia**. I design, build,
 and ship products end to end — from the Flutter app in your hand to the Go service
-behind it. Currently pouring most of that into **Morpho**.
+behind it. Most recently built and sold **Morpho**.
 
 ---
 
 ## `# projects.md`
 
-**[Morpho](https://trymorpho.app/)** &nbsp;·&nbsp; `currently building` &nbsp;·&nbsp; iOS &amp; Android
+**[Morpho](https://trymorpho.app/)** &nbsp;·&nbsp; `acquired` &nbsp;·&nbsp; iOS &amp; Android
 > One selfie, dozens of AI personas — anime, warrior, cartoon, cyberpunk. Generated in seconds.
 
 **[ats-bypasser](https://atsbypasser.com/)** &nbsp;·&nbsp; `free tool`
@@ -31,15 +31,3 @@ behind it. Currently pouring most of that into **Morpho**.
 ## `# also.md`
 
 Contributor to **[Gin](https://github.com/gin-gonic/gin/commits?author=rezathepure)**, a popular Go web framework.
-
----
-
-## `# stack.md`
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
